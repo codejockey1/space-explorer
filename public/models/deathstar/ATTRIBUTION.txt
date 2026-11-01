@@ -1,0 +1,8 @@
+Death Star model by Sebastian Sosnowski (Sketchfab)
+https://sketchfab.com/3d-models/death-star-star-wars-3d5f01485e9e4e8b9d995d7764341afe
+License: CC BY-NC-ND 4.0
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Optimized meshopt+webp GLB packaging adapted from the Death-Star-Promo demo
+(https://github.com/EdoEdoEdo/Death-Star-Promo). Original authorship remains
+Sebastian Sosnowski. Star Wars and Death Star are trademarks of Lucasfilm Ltd. / Disney.
